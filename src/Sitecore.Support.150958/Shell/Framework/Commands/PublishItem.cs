@@ -15,7 +15,7 @@ namespace Sitecore.Support.Shell.Framework.Commands
 {
     public class PublishItem : Command
     {
-        /// <summary>
+        /// <summary> 
         /// Executes the command in the specified context.
         /// </summary>
         /// <param name="context">The context.</param>
